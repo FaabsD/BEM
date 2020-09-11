@@ -25,12 +25,12 @@ main {
 
 }
 
-.fotobox img {
+.fotobox_image {
     width: 100vw;
     object-fit: cover;
 }
 
-.fotobox div {
+.img_container {
     text-align: center;
 }
 
@@ -64,7 +64,7 @@ footer {
         align-items: center;
     }
 
-    .fotobox img {
+    .fotobox_image {
         width: 100vw;
         height: 65vh;
         object-fit: contain;
