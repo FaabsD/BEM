@@ -25,12 +25,12 @@ main {
 
 }
 
-.fotobox_image {
+.fotobox__image {
     width: 100vw;
     object-fit: cover;
 }
 
-.img_container {
+.fotobox__container {
     text-align: center;
 }
 
