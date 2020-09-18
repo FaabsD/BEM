@@ -34,7 +34,7 @@ main {
     text-align: center;
 }
 
-.portret--picture {
+.portret__picture {
     min-width: 300px;
     max-width: 100%;
     object-fit: cover;
