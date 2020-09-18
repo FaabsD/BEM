@@ -3,7 +3,7 @@ $(document).ready( function(){
     // $('main').hide(3000).delay(1000).show(1000);
 
     // mouse event
-    $('.portret--picture').mouseenter(function(){
+    $('.portret__picture').mouseenter(function(){
         $(this).fadeTo(600, .01);
     }).mouseleave(function(){
         $(this).fadeTo(600, 1);
